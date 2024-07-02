@@ -2,13 +2,13 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Jeon kilwon",
-    image: "public\profile.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "public\profile.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Data Analysis",
-    bio: "I develop everything using node.",
+    bio: "Data solves any problem.",
     email: "yuvw123@gmail.com",
-    linkedin: "전길원 (Jeon Kilwon)",
-    github: "kingrangE",
-    instagram: "1w0o1n4",
+    linkedin: "https://www.linkedin.com/in/%EA%B8%B8%EC%9B%90-%EC%A0%84-5652b9267/",
+    github: "https://github.com/kingrangE",
+    instagram: "https://www.instagram.com/1w0o1n4/",
   },
   projects: [
     {
