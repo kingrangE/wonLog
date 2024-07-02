@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "won-log",
+    title: "oneway-log",
     description: "welcome to won-log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
@@ -41,12 +41,14 @@ const CONFIG = {
       measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "",
     },
   },
+
   googleSearchConsole: {
     enable: false,
     config: {
       siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
     },
   },
+
   naverSearchAdvisor: {
     enable: false,
     config: {
